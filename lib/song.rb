@@ -6,6 +6,6 @@ class Song
 
 end
 
-song = Song.new(@title)
+#song = Song.new(@title)
 
 #binding.pry
