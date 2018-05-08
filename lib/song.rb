@@ -7,5 +7,6 @@ class Song
 end
 
 song = Song.new(@title)
-binding.pry
+
 song.artist = artist
+binding.pry
