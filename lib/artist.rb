@@ -1,3 +1,4 @@
+require "pry"
 class Artist
   attr_accessor :name
   def initialize(name)
@@ -6,3 +7,4 @@ class Artist
 end
 
 artist = Artist.new(name)
+binding.pry
