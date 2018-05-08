@@ -6,5 +6,5 @@ class Artist
   end
 end
 
-artist = Artist.new("@name")
+artist = Artist.new(@name)
 binding.pry
