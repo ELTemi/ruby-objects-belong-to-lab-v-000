@@ -8,5 +8,4 @@ end
 
 song = Song.new(@title)
 
-song.artist = artist
 binding.pry
