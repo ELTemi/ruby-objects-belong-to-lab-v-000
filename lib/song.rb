@@ -5,7 +5,7 @@ class Song
     @title = title
   end
 
-  def
+  
 end
 
 song = Song.new(@title)
