@@ -7,4 +7,4 @@ class Artist
 end
 
 artist = Artist.new(@name)
-binding.pry
+#binding.pry
